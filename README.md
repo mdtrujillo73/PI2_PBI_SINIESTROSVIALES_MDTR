@@ -120,7 +120,7 @@ Se utliza la herramienta NovyPro para mostrar el `dashboard` resultante de maner
 
 KPI Propuestos
 
-![KPI](/imagenes/KPIS.PNG.PNG)
+![KPI](/imagenes/KPIS.PNG)
 
  - **Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior**
 
@@ -146,7 +146,7 @@ Se define la cantidad de accidentes fatales de autos en siniestros viales como e
 Cantidad de Accidentes Mortales en auto = Tomando la variable `Victima` que se iguale a el campo [AUTO] del dataset 
 
 
-![Indicadores](/imagenes/kpisindicadores.PNG.PNG)
+![Indicadores](/imagenes/kpisindicadores.PNG)
 
 
 ## **Conclusiones**
