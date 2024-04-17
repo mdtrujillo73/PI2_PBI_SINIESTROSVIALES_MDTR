@@ -97,7 +97,7 @@ Los horarios críticos de los siniestros viales están relacionados con los mome
 
 Edad de las víctimas : La distribución del rango etario de víctimas, resulta para los `Masculinos` entre 20 y 40 años; mientras que para los `Femeninos` entre 40, 60 y 80 años.
 
-![Rango etario](/imagenes/DistribucionEdadVSexo.png.png)
+![Rango etario](/imagenes/DistribucionEdadVSexo.png)
 
 El patrón de correlación Edad y Hora de las variables númericas se analiza agregando la variable Sexo, de lo que resulta la conclusión que los horarios en que los accidentes son protagonizados por Masculinos es al horario de ingreso y egreso laboral, mientras que para los Femeninos es en el horario cercano al almuerzo.
 
