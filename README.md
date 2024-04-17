@@ -129,8 +129,6 @@ Se define la tasa de homicidios en siniestros viales como el número de víctima
 Número de Homicidios de Siniestros = Tomando la variable `Num víctimas` del dataset
 Población Total = Tomada del Censo 2022. (Fuente:INDEC)
 
-
-
  - **Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior**
 
 Se define la cantidad de accidentes mortales de motociclistas en siniestros viales como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que viajaban en moto en un determinado periodo temporal. Su fórmula para medir la evolución de los accidentes mortales con víctimas en moto es: (Número de accidentes mortales con víctimas en moto en el año anterior - Número de accidentes mortales con víctimas en moto en el año actual) / (Número de accidentes mortales con víctimas en moto en el año anterior) * 100
@@ -151,15 +149,13 @@ Cantidad de Accidentes Mortales en auto = Tomando la variable `Victima` que se i
 
 ## **Conclusiones**
 
-A partir del análisis exahustivo de los datos y su posterior visualización a través del dashboard en PowerBi; se concluye que las víctimas fatales por siniestros de tránsito entre los años 2016 a 2021 fueron 717 personas.
-Que la franja horaria de mayor problemática es la del ingreso laboral (5-9h), la del almuerzo (12-14h)y la del regreso a casa(17-18h); aunque durante los fines de semana (Sábado y Domingo), los accidentes se manifiestan en los horarios de salidas nocturnas (3-7h).
-Las víctimas son en un 76% Masculinas, y sus edades entre el rango etario de 20-40 años.
-Además en los siniestros de Masculinos los mayores casos se dan en su rol como Conductor.
-Los tipos de vehículos más frecuentes con Víctimas son las Motos y luego los Peatones; mientras que para los Acusados los vehículos más frecuentes son Autos, Colectivos y cargas.
-En cuanto a el lugar donde se producen los siniestros, las Avenidas a lo largo de los años han sido los espacios de mayor cantidad de siniestros; y en Cruce mayor a las calles. 
-Se observo un patrón en relación con la variable Edad, Hora y Sexo. Donde los Masculinos de entre 20 a 40 años y en los horarios de entrada y salida laboral o para el caso de los fines de semana en horas de salidas nocturnas.
+Tras analizar minuciosamente los datos y visualizarlos en un dashboard de PowerBi, se determina que entre los años 2016 y 2021, se registraron un total de 717 víctimas fatales debido a accidentes de tránsito. La franja horaria con mayor incidencia de siniestros corresponde al horario de entrada laboral (5-9h), almuerzo (12-14h) y regreso a casa (17-18h). Durante los fines de semana, especialmente los sábados y domingos, los accidentes son más frecuentes durante las salidas nocturnas (3-7h). El 76% de las víctimas son hombres, con edades comprendidas entre los 20 y 40 años.
 
-Asi se concluye que deberían mejorarse las señales y controles en las Avenidas sobre todo en las comunas 1 y 4 de CABA. Que podrían generarse campañas de prevención dirigidas a los Masculinos de entre 20 y 40 años .
+En cuanto al rol de las víctimas masculinas en los accidentes, la mayoría se desempeñaba como conductores. Las motocicletas son los vehículos más comunes involucrados en los accidentes con víctimas, seguidos por los peatones. Por otro lado, los autos, colectivos y vehículos de carga son los más frecuentes entre los acusados.
+
+Los accidentes tienden a ocurrir principalmente en avenidas a lo largo de los años, así como en cruces de calles. Se observa un patrón en relación con la edad, el horario y el sexo de las víctimas masculinas, que se concentran entre los 20 y 40 años durante las horas de entrada y salida laboral, así como durante las salidas nocturnas de los fines de semana.
+
+Se sugiere mejorar las señales y controles de tránsito en las avenidas, especialmente en las comunas 1 y 4 de CABA, y desarrollar campañas de prevención dirigidas específicamente a hombres de entre 20 y 40 años.
 
 <div align="center">
   <a href='https://www.linkedin.com/in/mdtrujillo73//'>
